@@ -6,7 +6,7 @@ date: 2024-07-13
 categories:
  - 学习笔记
 
-image: cover.png
+image: cover.jpg
 tags:
   - Linux
 
